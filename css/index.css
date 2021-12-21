@@ -1,0 +1,47 @@
+.parrafo1 {
+  color: #ff0087;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-style: italic;
+}
+p {
+  color: green;
+}
+.parrafo3 {
+  color: orangered;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: right;
+}
+.parrafo4 {
+  color: rgb(200, 200, 223);
+  font-size: 15px;
+  text-align: justify;
+}
+body {
+  background-color: rgb(2, 53, 2);
+}
+h1 {
+  color: aqua;
+  text-align: center;
+}
+h2 {
+  color: rgb(122, 144, 163);
+}
+h3 {
+  color: #ff0000;
+}
+
+ul {
+  list-style-type: circle;
+}
+.lista_cuad {
+  list-style-type: armenian;
+  font-style: oblique;
+}
+
+ol {
+  list-style-type: georgian;
+  font-style: italic;
+}
